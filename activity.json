@@ -1,0 +1,302 @@
+[
+  {
+    "type": "LOGIN",
+    "id": "1",
+    "time": "2022-09-04T22:34:10.218Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "1",
+    "time": "2022-09-04T23:35:22.672Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "1",
+    "time": "2022-09-04T23:35:32.727Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "1",
+    "time": "2022-09-04T23:36:06.955Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "1",
+    "time": "2022-09-05T00:20:53.901Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "1",
+    "time": "2022-09-05T00:20:55.864Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "1",
+    "time": "2022-09-05T00:20:57.724Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "1",
+    "time": "2022-09-05T00:21:32.706Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "1",
+    "time": "2022-09-05T00:21:41.724Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "2",
+    "time": "2022-09-05T00:21:45.762Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "2",
+    "time": "2022-09-05T01:14:45.862Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "2",
+    "time": "2022-09-05T01:15:31.300Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "2",
+    "time": "2022-09-05T01:28:30.061Z"
+  },
+  {
+    "type": "REGISTER",
+    "id": 17,
+    "time": "2022-09-05T01:32:49.702Z"
+  },
+  {
+    "type": "REGISTER",
+    "id": 17,
+    "time": "2022-09-05T01:33:18.054Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "17",
+    "time": "2022-09-05T01:33:33.527Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "2",
+    "time": "2022-09-05T01:54:23.758Z"
+  },
+  {
+    "type": "LOGOUT",
+    "id": "2",
+    "time": "2022-09-05T02:00:32.520Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "2",
+    "time": "2022-09-05T02:00:33.808Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T02:51:41.424Z"
+  },
+  {
+    "type": "LOGIN",
+    "id": "2",
+    "time": "2022-09-05T03:16:08.617Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:17:02.194Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:17:03.044Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:03.525Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:04.563Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:10.352Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:11.120Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:11.804Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:28:14.609Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:29:31.904Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:29:36.528Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:12.389Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:17.871Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:19.753Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:21.464Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:24.610Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:30:34.723Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:31:11.485Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:31:14.700Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:33:39.386Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:33:42.747Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:03.171Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:07.087Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:39.825Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:41.620Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:46.161Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:34:50.126Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:35:56.155Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:35:58.604Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:36:28.639Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:36:31.809Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:36:32.646Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:37:18.663Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:38:14.288Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:39:18.419Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:39:28.382Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:39:29.201Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:39:30.034Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T03:40:20.902Z"
+  },
+  {
+    "type": "ADD_ITEM_CART",
+    "id": "2",
+    "time": "2022-09-05T04:44:42.436Z"
+  }
+]
